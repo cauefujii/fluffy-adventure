@@ -1,0 +1,44 @@
+body{
+  margin:0;
+}
+
+.diferente{
+  font-size: 30px;
+  color: red;
+  padding-left: 30px;
+  background-color: black;
+  margin: 0;
+}
+
+h1{
+  font-size: 40px;
+  text-align: center;
+  text-decoration: underline;
+  background-color: black;
+  color: #f70000;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#lista{
+  font-size: 20px;
+  font-weight: bold;
+  color: purple;
+}
+
+img{
+  width: 50px;
+  height: 100%;
+}
+
+.botao{
+  background-color: green;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 20px;
+  text-align: center;
+}
+
+.imagem img{
+  width: 300px;
+  height: 100%;
+}
